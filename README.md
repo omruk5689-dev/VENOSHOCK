@@ -1,78 +1,52 @@
 #  VENOSHOCK
-<img width="2160" height="2573" alt="PCB_F" src="https://github.com/user-attachments/assets/2c653409-b48a-4986-b3ba-60eb3f514c1f" />
 
-> *Spread Power, Not Venom.*
+<img width="2160" height="2573" alt="PCB_F" src="https://github.com/user-attachments/assets/57a7c483-ac33-4a17-b83d-e086e64bd59e" />
 
-VENOSHOCK is a handy USB Type-C powered portable voltage source based on the *Venom Suit of Spider-Man: Miles Morales*. As the Venom power flows across the suit, VENOSHOCK distributes electricity to your devices via an elegant and compact PCB build.
+VENOSHOCK is a small USB Type-C powered voltage supply made for electronics lovers, students and makers. The inspiration behind VENOSHOCK  Venom energy seen in *Spider-Man: Miles Morales*.
+istead of venom it supply power to your project
+The board is also small enough to be carried as a *keychain*, making it a practical everyday tool for engineers and DIY creators.
+#  Features
 
-With a cool look and practical function, VENOSHOCK may also serve as a *keychain*, offering you a handy power source.
-## ✨ Features
+-  USB Type-C Input
+-  Five selectable output voltages
+- 5V
+- 9V
+- 12V
+- 20V
+- 28V
+-  Purple LED lighting
+-  Portable keychain design
 
-- 🔌 USB Type-C Powered
-- ⚡ 5 Selectable Output Voltages
-- 🔋 5V Output
-- ⚡ 9V Output
-- ⚡ 12V Output
-- ⚡ 20V Output
-- ⚡ 28V Output
-- 💡 Decorative LED Lighting
-- 🔑 Portable Keychain Design
-- 🕷️ Spider-Man Miles Morales Venom Inspired PCB Artwork
-- 🛠️ Perfect for Electronics Projects, Testing and Prototyping
+#Applications
 
-## Description
+VENOSHOCK can be used for:
 
-VENOSHOCK is an easily transportable multivoltage power source intended for electronics enthusiasts. Connecting just a USB Type-C cable, the PCB board will be able to output various voltages that will suit the requirements for test purposes or powering simple circuits.
+- PCB Testing
+- Electronics Prototyping
+- DIY Hardware Projects
+- Portable Power Source
+- Educational Projects
 
-The design of the PCB board has been highly influenced by the *Venom powers from Spider-Man: Miles Morales*.
-##Software Used
+ # Software Used
 
 - EasyEDA Pro
 
----
+# Contributing
 
-## Applications
+Suggestions and improvements are always welcome.
 
-- Electronics Testing
-- Arduino Projects
-- ESP32 Projects
-- STM32 Projects
-- Embedded Development
-- PCB Testing
-- Portable Voltage Source
-- DIY Electronics
-- Engineering Projects
--
--  ##  Future Improvements
+If you'd like to improve VENOSHOCK, feel free to fork this repository and submit a pull request.
 
-- More Voltage Options
-- Higher Output Current
-- OLED Display
-- Battery Powered Version
-- Protection Circuit
-- Compact Enclosure
 
----
-
-##  License
+#License
 
 This project is released under the *MIT License*.
 
-Feel free to use, modify, and improve this project while giving proper credit.
-
----
-
-##  Creator
+#Creator
 
 *Omer Ruknuddin*
 
-Designed with ❤️ using *EasyEDA Pro*
+If you found this project interesting or useful, please consider giving this repository a *Star*.
 
----
 
-##  Support
-
-If you like this project, please consider giving this repository a *⭐ Star*.
-
-It really helps and motivates me to create more open-source hardware projects.
 
