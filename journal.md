@@ -3,7 +3,7 @@
 
 | Project | VENOSHOCK |
 |---------|------------|
-| *Author* | Umar |
+| *Author* | Omer |
 | *Created* | July 2026 |
 | *Software Used* | EasyEDA Pro |
 | *Total Time Spent* | 23 Hours |
